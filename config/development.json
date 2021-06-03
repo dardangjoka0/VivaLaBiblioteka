@@ -1,0 +1,6 @@
+{
+    "name": "My app",
+    "mail": "localhost",
+    "morganEnabled": true,
+    "errorLoging": true 
+}
